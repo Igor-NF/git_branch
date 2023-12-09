@@ -1,2 +1,4 @@
 for i in range(7):
-    pass
+    if i % 2:
+        print(i)
+        
